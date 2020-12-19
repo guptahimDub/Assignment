@@ -27,8 +27,11 @@
 
 ## Installation Steps
 1. Clone the Git Repository.
-2. Build the project using Maven: `mvn clean install` - under \
-3. The `jar` file will be created under the target folder - \target\GameTakeaway-0.0.1-SNAPSHOT.jar
+2. Build the project using Maven: `mvn clean install` - under \ForeignExchangeRateAPI
+3. The `jar` file will be created under the target folder - \target\ForeignExchangeRate-0.0.1-SNAPSHOT.jar
+4. Run Application by either of the below commands:
+    i.)  `mvn spring-boot:run` - under \ForeignExchangeRateAPI\               OR
+    ii.) `java -jar ForeignExchangeRate-0.0.1-SNAPSHOT.jar` - under \target folder run command
 
 ## Usage
 Below are the different REST APIs calls which can be made (List Of Operations):
