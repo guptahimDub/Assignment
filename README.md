@@ -3,12 +3,13 @@
 # REST API for Foreign Exchange Rates
 
 ### This repository consists of below files:
-- `Application` Consists of the main function and configuration of swagger API. 
-- `Controller` - Consists of end-point urls.
-- `Model`  - Consists of currency, rate and date (to be stored in in-memory database).
-- `Repository` - The methods used to interact with database are present.
-- `Service`    - Xml parser (or Rest API call) and other conversion logics are present.
-- `Properties` - Consisits of in-memory DB details.
+- `Application` -Consists of the main function and configuration of swagger API. 
+- `Controller`  - Consists of end-point urls.
+- `Model`       - Consists of currency, rate and date (to be stored in in-memory database).
+- `Repository`  - The methods used to interact with database are present.
+- `Service`     - Xml parser (or Rest API call) and other conversion logics are present.
+- `Properties`  - Consisits of in-memory DB details.
+- `XML file`    - Consisits of exchange rates on different time period (based on currency).
 
 ## Standalone Foreign Exchange Rate Application
 
