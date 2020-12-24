@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: himan
+Build-Jdk: 15
+Implementation-Title: Foreign Exchange Service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: fundsaccess
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/ForeignExchangeRateAPI
+Created-By: Maven Integration for Eclipse
+
